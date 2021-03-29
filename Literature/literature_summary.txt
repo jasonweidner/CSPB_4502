@@ -1,0 +1,38 @@
+This file contains a list of journal articles reviewed by Jason Weidner and Joaquin Quintana for use in CSPB4502 Data Mining, at the Univesity of Colorado - Boulder, 2021. 
+
+
+START OF CITATIONS (no particular order)
+----
+Stefano Cresci, Roberto Di Pietro, Marinella Petrocchi, Angelo Spognardi, and Maurizio Tesconi. 2017. The Paradigm-Shift of Social Spambots: Evidence, Theories, and Tools for the Arms Race. In Proceedings of the 26th International Conference on World Wide Web Companion (WWW '17 Companion). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 963–972. DOI:https://doi.org/10.1145/3041021.3055135
+
+Link to arxiv: https://arxiv.org/pdf/1701.03017.pdf
+
+Summary:
+This paper proposes there is a new generation of 'social spambots' different to bots present on Twitter historically. The new bots, the authors claim, evade detection by humans and state-of-the-art detection algorithms published in academic literature. The authors demonstrate that such bots evade detection through a series of analyses. In turn, the authors call for new methods to be developed that can successfully identify 'social spambots'.
+
+
+----
+S. Cresci, R. D. Pietro, M. Petrocchi, A. Spognardi and M. Tesconi, "Social Fingerprinting: Detection of Spambot Groups Through DNA-Inspired Behavioral Modeling," in IEEE Transactions on Dependable and Secure Computing, vol. 15, no. 4, pp. 561-576, 1 July-Aug. 2018, doi: 10.1109/TDSC.2017.2681672.
+
+Link to arxiv: https://arxiv.org/pdf/1703.04482.pdf
+
+Summary:
+This paper claims there are a recent (>2014) novel species of spambots specifically designed to mimic authentic user behaviour in order to evade state of the art bot identification routines. These bots, according to the authors, are highly coordinated and deployed in a way that they routinely promote similar content. Authors also claim these bots can be identified by using a 'digital DNA' technique. Authors manually translated Twitter account activity (and Tweet content) into sequences of letters representing the type of activity (or content) present. Then the researchers compared the sequence (DNA) to those from known human and known bot accounts, showing that bot activity was markedly different (particularly so for one group of bots compared to another). 
+
+See associated magazine article: DNA-Inspired Online Behavioral Modeling and Its Application to Spambot Detection
+
+
+----
+Stefano Cresci, Roberto Di Pietro, Marinella Petrocchi, Angelo Spognardi, Maurizio Tesconi, Fame for sale: Efficient detection of fake Twitter followers,
+Decision Support Systems, Volume 80, 2015, Pages 56-71, ISSN 0167-9236, https://doi.org/10.1016/j.dss.2015.09.003.
+
+Link to arxiv: https://arxiv.org/pdf/1509.04098.pdf
+
+Summary:
+This paper does a few things:
+1) Creates several datasets of fake and authentic Twitter accounts. Fake accounts were purchased from 3rd parties and had their data scraped by researchers. Authentic accounts were obtained by promoting the research, following up with individual accounts and verifying them by CAPTCHA and evaluation by two sociologists.
+2) Evaluates Twitter account metrics promoted in media as being able to identify bots. These metrics performed poorly.
+3) Evaluates meetrics promoted by academics. These perform well.
+4) Summarise the academic literature related to bot identification, including challenges with some of the data.
+5) Shares their work relating to classification of bot activity.
+
