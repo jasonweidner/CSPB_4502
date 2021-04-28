@@ -15,7 +15,7 @@ These data show that:
 - A classifier built with a few rules can identify spambots >90% on Twitter using publicly accessible datasets 
 
 # Link to video demonstration
-[Demonstration and explaination video here.]()
+[Demonstration and explaination video here.](https://youtu.be/PsRkarQoeMs)
 
 # Link to final project paper
 [Final paper here.](https://docs.google.com/document/d/1HI4KQSA88TvTo6F27xG43Y0w9LOFMF1MKqPE4LJ7nz8/edit?usp=sharing)
