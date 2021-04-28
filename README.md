@@ -1,5 +1,3 @@
-# CSPB_4502
-
 # Project Title
 **Information Gain of Twitter ‘Social Spambots’ and Classification with Random Forest**
 
